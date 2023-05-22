@@ -1,0 +1,30 @@
+{
+
+  "users": [
+    {
+      "id": 1,
+      "email": "johnnypequeno7@gmail.com",
+      "password": "VtgPeq"
+    }
+  ],
+
+  "informations": [
+    {
+      "id": 1,
+      "imagem": "https://i.ibb.co/8DKDBjM/IMAGEM-MAIN.png",
+      "titulo": "Olá, vamos produzir juntos?",
+      "descricao": "Sou jornalista e produtor audiovisual, com mais de 10 anos de carreira. Aqui, você vai conhecer o meu trabalho e descobrir como posso ajudar a produzir histórias de sucesso para sua marca."
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "anoInicio": "2008",
+      "anoFim": "2012",
+      "titulo": "COMUNICAÇÃO SOCIAL COM HABILITAÇÃO EM JORNALISMO ",
+      "instituicao": "UNIFAVIP",
+      "tipo": "academica"
+    }
+  ],
+  "serviços": []
+}
