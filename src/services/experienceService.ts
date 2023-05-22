@@ -1,7 +1,7 @@
 import api from './api';
 
 export interface Experience {
-    id?: number;
+    id: number;
     titulo: string;
     instituicao: string;
     anoInicio: string;
